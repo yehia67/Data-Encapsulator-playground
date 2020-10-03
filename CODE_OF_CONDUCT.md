@@ -1,10 +1,9 @@
 # Community Code of Conduct
 
-In the IOTA community, participants from all over the world come together to create. This is made possible by the support, hard work and enthusiasm of thousands of people, including those who create and use the IOTA technology.
+Our code of conduct is exactly the same as the IOTA community, participants from all over the world come together to create. This is made possible by the support, hard work and enthusiasm of thousands of people, including those who create and use the IOTA technology.
 
-This document offers some guidance to ensure IOTA participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
+This document offers some guidance to ensure  participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
 
-This Code of Conduct is shared by all contributors and users who engage with the IOTA Foundation team and its community services.
 
 ## Overview
 
@@ -17,13 +16,13 @@ This Code of Conduct presents a summary of the shared values and “common sense
 - Supporting others in the community
 - Getting support from others in the community
 
-This Code of Conduct reflects the agreed standards of behavior for members of the IOTA community, in any social media platform, forum, mailing list, wiki, web site, discord channel, public meeting or private correspondence within the context of the IOTA Foundation team and the IOTA Tangle technology. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of social media groups, mailing lists, discord channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
+This Code of Conduct reflects the agreed standards of behavior for members of the community, in any social media platform, forum, mailing list, wiki, web site, discord channel, public meeting or private correspondence within the context of the IOTA Foundation team and the IOTA Tangle technology. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of social media groups, mailing lists, discord channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
 
 ## Be considerate
 
 Your actions and work will affect and be used by other people and you, in turn, will depend on the work and actions of others. Any decision you take will affect other community members, and we expect you to take those consequences into account when making decisions.
 
-As a user, remember that community members work hard on their part of IOTA and take great pride in it.
+As a user, remember that community members work hard on their par and take great pride in it.
 
 ## Be respectful
 
