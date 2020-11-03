@@ -32,10 +32,10 @@ npm start
 - [x] ipfs endpoints
 - [x] create boilerplate for sequelize database
 - [x] create service IOTA MAM, IOTA transactions
-- [ ] create service for data marketplace deployments data
+- [x] create service for data marketplace deployments data
 - [ ] create IOTA endpoints
-- [ ] finish code of conduct
-- [ ] integrate sonarqube  
+- [x] finish code of conduct
+- [x] integrate sonarqube  
 - [ ] schema to validate all calls
 
 follow our progress on [pivotalTracker](https://www.pivotaltracker.com/n/projects/2465210)

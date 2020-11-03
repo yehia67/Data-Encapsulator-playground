@@ -33,6 +33,7 @@ app.get('/', (req, res, next) => {
   res.json({ message: 'server is Up and Running!' });
 });
 
+require('./services/datamarketplace');
 app.use('/auth', authRouter);
 app.use('/ipfs', ipfsRouter);
 

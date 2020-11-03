@@ -7,11 +7,11 @@ const { uploadSchema } = require('../requestSchema/ipfs/upload');
 const { downloadSchema } = require('../requestSchema/ipfs/download');
 
 const {
-    uploadData,
-    downloadData
+    add,
+    cat
 } = require('../controller/IPFS');
 
-router.post('/upload', jwt,validate(uploadSchema), uploadData);
-router.get('/download', jwt, validate(downloadSchema),downloadData);
+router.post('/upload', jwt,validate(uploadSchema), add);
+router.get('/download', jwt, validate(downloadSchema),cat);
 
 exports.ipfsRouter = router;

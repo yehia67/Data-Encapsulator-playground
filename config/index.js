@@ -10,6 +10,8 @@ module.exports = {
   api: {
     prefix: '/',
   },
+  userIdMarketplace:process.env.userIdMarketplace,
+  apiKeyMarketplace:process.env.apiKeyMarketplace,
   dbUserName: process.env.DB_USERNAME,
   dbPassword: process.env.DB_PASSWORD,
   dbName: process.env.DB_NAME,
