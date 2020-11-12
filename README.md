@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/yehia67/Data-Encapsulator-playground)
+
 # Data-Encapsulator
 A plugin for IOTA DataMarketPlace to sell confidential data in trusted &amp; anonymous way. 
 
